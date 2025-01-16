@@ -1,11 +1,21 @@
 # Capstone on Interactive Dashboards with Power BI
 ## _Supermarket Sales Analysis_ 
+Welcome to my portfolio! I am an aspiring Data Analyst with a passion for turning data into actionable insights.
+
+#### Supermarket Sales Analysis
+This project focused on analyzing supermarket sales data from three branches in Myanmar. Using Power BI, I visualized key metrics to uncover patterns in sales performance, customer preferences, and market trends.
+
+#### Key Highlights:
+- Created dynamic dashboards to monitor revenue trends.
+- Analyzed sales performance across the various branches and product categories.
+- Provided insights into customer purchasing behavior and market segmentation.
+- Commentary on areas of improvements based on analysis
+
+This project helped me strengthen my skills in data visualization, storytelling, and working with real-world datasets.
 
 [![CoverPage](https://i.gyazo.com/dd3c65956a0043afa1abc95b9b9f1f4e.png)](https://gyazo.com/dd3c65956a0043afa1abc95b9b9f1f4e)
 [![SalesAnalysis](https://i.gyazo.com/458db712072bb713155cc74537bc318d.png)](https://gyazo.com/458db712072bb713155cc74537bc318d)
-[![Demographics Analysis](https://i.gyazo.com/71695701c0668a569ee5fbc3f285fa51.png)](https://gyazo.com/71695701c0668a569ee5fbc3f285fa51)
-[![Mode of Payment](https://i.gyazo.com/dce0c453874ba42abfa7cfed69a66fbc.png)](https://gyazo.com/dce0c453874ba42abfa7cfed69a66fbc)
-[![Product Analysis](https://i.gyazo.com/e2028cec929015749c9b7faf68c62e51.png)](https://gyazo.com/e2028cec929015749c9b7faf68c62e51)
+[![Image from Gyazo](https://i.gyazo.com/39ea66fc530f4efeb1d6f4696d0f9363.png)](https://gyazo.com/39ea66fc530f4efeb1d6f4696d0f9363)
 
 #### Description of Dataset
 This dataset used in this presentation shows the sales performance of 3 supermarket branches (A, B & C) in Myanmar (Yangon, Naypyitaw, mandalay). The dataset has time covers the first quarter of 2019. The dataset has a size of 1000 rows. General observations of the data:
@@ -59,6 +69,8 @@ This dataset used in this presentation shows the sales performance of 3 supermar
 -	Replaced values
 -	Added new columns for Year, Month, and Hour
 -	Added new measure for YTD sales in model view
+
+Feel free to explore my GitHub repository to view more of my projects!
 
 #### Connect with Me!
 Like my work? Send me a DM on [Linkedin!](https://www.linkedin.com/in/praveenkumar151295/)
